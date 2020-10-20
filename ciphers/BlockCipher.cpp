@@ -1,3 +1,10 @@
+/**
+ * class implementation for the abstract block cipher superclass.
+ * @file BlockCipher.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "BlockCipher.hpp"
 
 /**

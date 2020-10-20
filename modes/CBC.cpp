@@ -1,3 +1,10 @@
+/**
+ * class implementation for the CBC mode of operation.
+ * @file CBC.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "CBC.hpp"
 
 /**

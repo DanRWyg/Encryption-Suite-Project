@@ -1,3 +1,10 @@
+/**
+ * class implementation for the CFB mode of operation.
+ * @file CFB.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "CFB.hpp"
 
 /**

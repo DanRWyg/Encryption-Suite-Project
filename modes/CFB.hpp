@@ -1,3 +1,10 @@
+/**
+ * header file for the CFB mode of operation.
+ * @file CFB.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYCFB
 #define MYCFB
 

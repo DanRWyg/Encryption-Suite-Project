@@ -1,3 +1,10 @@
+/**
+ * header file for the abstract mode of operations superclasses.
+ * @file ModeOfOperation.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYMODEOFOPERATION
 #define MYMODEOFOPERATION
 

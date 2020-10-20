@@ -1,3 +1,10 @@
+/**
+ * class implementation for the AES 128, 192, and 256 block cipher.
+ * @file AES.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "AES.hpp"
 
 /**

@@ -1,3 +1,11 @@
+/**
+ * header file for the abstract block cipher superclass.
+ * @file BlockCipher.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
+
 #ifndef MYBLOCKCIPHER
 #define MYBLOCKCIPHER
 

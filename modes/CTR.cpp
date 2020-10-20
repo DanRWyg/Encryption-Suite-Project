@@ -1,3 +1,10 @@
+/**
+ * class implementation for the CTR mode of operation.
+ * @file CTR.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "CTR.hpp"
 
 /**

@@ -1,3 +1,10 @@
+/**
+ * header file for the CTR mode of operation.
+ * @file CTR.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYCTR
 #define MYCTR
 

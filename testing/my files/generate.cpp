@@ -1,3 +1,10 @@
+/**
+ * test program that generates ciphertext and plaintext (decrypted ciphertext) files for all the modes of operation and versions of AES.
+ * @file generate.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>

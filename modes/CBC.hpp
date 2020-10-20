@@ -1,3 +1,10 @@
+/**
+ * header file for the CBC mode of operation.
+ * @file CBC.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYCBC
 #define MYCBC
 

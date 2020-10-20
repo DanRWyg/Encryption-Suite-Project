@@ -1,3 +1,10 @@
+/**
+ * header file for the AES 128, 192, and 256 block cipher.
+ * @file AES.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYAES
 #define MYAES
 #include <cstdint>

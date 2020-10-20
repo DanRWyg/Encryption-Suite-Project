@@ -1,3 +1,10 @@
+/**
+ * header file for the OFB mode of operation.
+ * @file OFB.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYOFB
 #define MYOFB
 

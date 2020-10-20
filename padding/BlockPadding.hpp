@@ -1,3 +1,10 @@
+/**
+ * header file for the abstract block padding superclass.
+ * @file BlockPadding.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYBLOCKPADDING
 #define MYBLOCKPADDING
 

@@ -1,3 +1,10 @@
+/**
+ * class implementation for the OFB mode of operation.
+ * @file OFB.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "OFB.hpp"
 
 /**

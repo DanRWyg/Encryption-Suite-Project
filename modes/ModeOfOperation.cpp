@@ -1,3 +1,10 @@
+/**
+ * class implementations for the abstract mode of operations superclasses.
+ * @file ModeOfOperation.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "ModeOfOperation.hpp"
 
 /**

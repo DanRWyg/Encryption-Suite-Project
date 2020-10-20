@@ -1,3 +1,10 @@
+/**
+ * header file for the ECB mode of operation.
+ * @file ECB.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYECB
 #define MYECB
 

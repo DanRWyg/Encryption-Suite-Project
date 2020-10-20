@@ -1,3 +1,10 @@
+/**
+ * class implementation for the PKCS#5 block padding standard.
+ * @file PKCS_5.cpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #include "PKCS_5.hpp"
 
 /**

@@ -1,3 +1,10 @@
+/**
+ * header file for the PKCS#5 block padding standard.
+ * @file PKCS_5.hpp
+ * @author Daniel Wygant
+ * @version 1.0 10/20/2020
+ */
+
 #ifndef MYPKCS_5
 #define MYPKCS_5
 
