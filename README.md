@@ -8,7 +8,7 @@ What better way to accomplish this goal than to implement it in the form of a sm
 ### Implementation:
 To get a good foundation for this project, I will implementing:
 * AES block cipher (128, 192, and 256 bit implementation)
-* Several common modes of operation: ECB, CBC, CBF, OBF, and CTR
+* Several common modes of operation: ECB, CBC, CFB, OBF, and CTR
 
 
 ### Structure:
